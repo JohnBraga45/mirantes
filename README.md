@@ -1,7 +1,7 @@
-# Braga
+# Braga Gestor de Tarefa
 
  
-Braga' Este é um test de emprego com o objetivo de fazer um gestor de tarefas, criado com  NextJS e TailwindCSS e Supabase. Aqui estçao algumas funcionalidades:
+Este é um test de emprego com o objetivo de fazer um gestor de tarefas, criado com  NextJS e TailwindCSS e Supabase. Aqui estçao algumas funcionalidades:
 
  - Partes de autenticação incluem cadastro, login, logout, recuperação de senha e redefinição de senha.
  - Criar um quadro, abrir detalhes do quadro, atualizar título do quadro e excluir um quadro.
