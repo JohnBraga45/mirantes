@@ -90,7 +90,7 @@ const ModalCreateBoard: React.FC<Props> = ({ isOpen, onRequestClose }) => {
                 backgroundColor={["bg-green-600", "bg-green-700"]}
                 disabled={!!errors.title || isSubmitting}
               >
-                Create Board
+                Criar Quadro
               </Button>
             </form>
           </div>

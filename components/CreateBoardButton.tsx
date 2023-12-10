@@ -11,7 +11,7 @@ const CreateBoardButton: React.FC<Props> = ({ onClick }) => {
       type="button"
       onClick={onClick}
     >
-      <p className="text-md text-slate-500">Create new board</p>
+      <p className="text-md text-slate-500">Criar um novo Quadro</p>
     </button>
   );
 };
