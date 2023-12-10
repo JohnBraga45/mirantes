@@ -1,6 +1,6 @@
 # Braga Gestor de Tarefa
  
-![Thumbnail](./docs/images/thumbnail.png)
+![Thumbnail](./docs/images/demo.jpeg)
  
 Este é um test de emprego com o objetivo de fazer um gestor de tarefas, criado com  NextJS e TailwindCSS e Supabase. Aqui estçao algumas funcionalidades:
 
